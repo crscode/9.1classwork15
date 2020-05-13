@@ -1,0 +1,19 @@
+{
+  "name": "15classwork9.1",
+  "version": "1.0.0",
+  "description": "9.1 Classwork number 15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crscode/9.1classwork15.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crscode/9.1classwork15/issues"
+  },
+  "homepage": "https://github.com/crscode/9.1classwork15#readme"
+}
